@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Items>
+    <Item>
+        <ID>1</ID>
+        <ItemName>治疗药水</ItemName>
+        <Value>10.0</Value>
+        <Quality>普通</Quality>
+        <MaxStackSize>20</MaxStackSize>
+        <Weight>0.5</Weight>
+        <Description>恢复少量生命值。</Description>
+        <ItemType>消耗品</ItemType>
+    </Item>
+    <Item>
+        <ID>2</ID>
+        <ItemName>铁剑</ItemName>
+        <Value>50.0</Value>
+        <Quality>稀有</Quality>
+        <MaxStackSize>20</MaxStackSize>
+        <Weight>3.0</Weight>
+        <Description>一把基础的铁剑。</Description>
+        <ItemType>装备</ItemType>
+    </Item>
+    <Item>
+        <ID>3</ID>
+        <ItemName>魔法草药</ItemName>
+        <Value>5.0</Value>
+        <Quality>史诗</Quality>
+        <MaxStackSize>10</MaxStackSize>
+        <Weight>0.1</Weight>
+        <Description>用于炼金术的稀有草药。</Description>
+        <ItemType>材料</ItemType>
+    </Item>
+</Items>
+
